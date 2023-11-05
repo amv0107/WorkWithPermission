@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">WorkWithPermission</string>
+    <string name="request_camera_permission">Request CAMERA permission:</string>
+    <string name="feature_1">Feature #1</string>
+    <string name="request_record_audio_and_access_fine_location_permission">Request RECORD_AUDIO and ACCESS_FINE_LOCATION permission:</string>
+    <string name="feature_2">Feature #2</string>
 </resources>
